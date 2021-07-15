@@ -1,2 +1,2 @@
 # Sentiment-analysis-RNN
-Machine learning project that trains a model to recognize emotions in text. (:TODO description)
+Project for Machine Learning course at University of Belgrade Faculty of Mathematics. 
